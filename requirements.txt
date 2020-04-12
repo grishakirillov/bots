@@ -1,0 +1,4 @@
+vk_api
+bs4
+psycopg2
+pytelegrambotapi
